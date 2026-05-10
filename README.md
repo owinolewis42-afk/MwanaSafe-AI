@@ -1,0 +1,6 @@
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Open Source](https://img.shields.io/badge/open%20source-yes-brightgreen)
+![AI Powered](https://img.shields.io/badge/AI-powered-purple)
+![Climate Tech](https://img.shields.io/badge/climate-tech-green)
+![UNICEF-aligned](https://img.shields.io/badge/impact-child%20safety-blue)
